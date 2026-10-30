@@ -1,0 +1,138 @@
+		(1)	(2)	(3)	(4)
+VARIABLES	LABELS	1	2	3	4
+					
+c.notpreg_sterilized@1bn.state_analysis		0.9262			
+		(0.01188)			
+c.notpreg_sterilized@2.state_analysis		0.9232			
+		(0.01211)			
+c.notpreg_sterilized@3.state_analysis		0.8636			
+		(0.01523)			
+c.notpreg_sterilized@4.state_analysis		0.9116			
+		(0.01036)			
+c.notpreg_sterilized@5.state_analysis		0.8530			
+		(0.009198)			
+c.notpreg_sterilized@6.state_analysis		0.8514			
+		(0.01488)			
+c.notpreg_sterilized@7.state_analysis		0.8944			
+		(0.01747)			
+c.notpreg_sterilized@8.state_analysis		0.9224			
+		(0.01312)			
+c.notpreg_sterilized@9.state_analysis		0.8764			
+		(0.01228)			
+c.notpreg_sterilized@10.state_analysis		0.8328			
+		(0.01232)			
+c.hh_women@1bn.state_analysis		1.6684		1.6852	
+		(0.05152)		(0.05753)	
+c.hh_women@2.state_analysis		1.7348		1.7553	
+		(0.1303)		(0.1363)	
+c.hh_women@3.state_analysis		1.9268		1.9758	
+		(0.07629)		(0.08475)	
+c.hh_women@4.state_analysis		2.1538		2.2131	
+		(0.1506)		(0.1658)	
+c.hh_women@5.state_analysis		1.8320		1.8783	
+		(0.07180)		(0.07209)	
+c.hh_women@6.state_analysis		1.7376		1.7847	
+		(0.06208)		(0.06098)	
+c.hh_women@7.state_analysis		1.6309		1.6722	
+		(0.07178)		(0.07275)	
+c.hh_women@8.state_analysis		1.3447		1.3520	
+		(0.08335)		(0.08707)	
+c.hh_women@9.state_analysis		1.7816		1.7919	
+		(0.05643)		(0.06436)	
+c.hh_women@10.state_analysis		1.7395		1.7803	
+		(0.06999)		(0.07659)	
+c.radio_atlstonce@1bn.state_analysis		0.4964			
+		(0.02991)			
+c.radio_atlstonce@2.state_analysis		0.4249			
+		(0.03516)			
+c.radio_atlstonce@3.state_analysis		0.1098			
+		(0.01749)			
+c.radio_atlstonce@4.state_analysis		0.3354			
+		(0.04723)			
+c.radio_atlstonce@5.state_analysis		0.08731			
+		(0.01910)			
+c.radio_atlstonce@6.state_analysis		0.07742			
+		(0.01164)			
+c.radio_atlstonce@7.state_analysis		0.3726			
+		(0.03242)			
+c.radio_atlstonce@8.state_analysis		0.6765			
+		(0.04316)			
+c.radio_atlstonce@9.state_analysis		0.2688			
+		(0.02352)			
+c.radio_atlstonce@10.state_analysis		0.05101			
+		(0.01046)			
+c.radio_ever@1bn.state_analysis		0.6871			
+		(0.03472)			
+c.radio_ever@2.state_analysis		0.7635			
+		(0.01967)			
+c.radio_ever@3.state_analysis		0.2379			
+		(0.02729)			
+c.radio_ever@4.state_analysis		0.6087			
+		(0.04772)			
+c.radio_ever@5.state_analysis		0.2775			
+		(0.03860)			
+c.radio_ever@6.state_analysis		0.3156			
+		(0.03807)			
+c.radio_ever@7.state_analysis		0.7095			
+		(0.03219)			
+c.radio_ever@8.state_analysis		0.8195			
+		(0.03821)			
+c.radio_ever@9.state_analysis		0.4813			
+		(0.02148)			
+c.radio_ever@10.state_analysis		0.1196			
+		(0.02495)			
+notpreg_sterilized	notpreg_sterilized		0.8709		
+			(0.005197)		
+hh_women	number of eligible women in household (de facto)		1.8088		1.8442
+			(0.02840)		(0.03119)
+radio_atlstonce	radio_atlstonce		0.2006		
+			(0.01001)		
+radio_ever	radio_ever		0.3813		
+			(0.01354)		
+c.modern_contraception_nonpregnant@1bn.state_analysis				0.09003	
+				(0.01391)	
+c.modern_contraception_nonpregnant@2.state_analysis				0.1222	
+				(0.03563)	
+c.modern_contraception_nonpregnant@3.state_analysis				0.02108	
+				(0.006087)	
+c.modern_contraception_nonpregnant@4.state_analysis				0.1141	
+				(0.02617)	
+c.modern_contraception_nonpregnant@5.state_analysis				0.03775	
+				(0.01260)	
+c.modern_contraception_nonpregnant@6.state_analysis				0.1843	
+				(0.02049)	
+c.modern_contraception_nonpregnant@7.state_analysis				0.1370	
+				(0.02347)	
+c.modern_contraception_nonpregnant@8.state_analysis				0.1137	
+				(0.04377)	
+c.modern_contraception_nonpregnant@9.state_analysis				0.1403	
+				(0.03588)	
+c.modern_contraception_nonpregnant@10.state_analysis				0.01936	
+				(0.005568)	
+c.any_contraception_nonpregnant@1bn.state_analysis				0.1096	
+				(0.01401)	
+c.any_contraception_nonpregnant@2.state_analysis				0.2168	
+				(0.03329)	
+c.any_contraception_nonpregnant@3.state_analysis				0.02241	
+				(0.006350)	
+c.any_contraception_nonpregnant@4.state_analysis				0.1246	
+				(0.03306)	
+c.any_contraception_nonpregnant@5.state_analysis				0.04406	
+				(0.01420)	
+c.any_contraception_nonpregnant@6.state_analysis				0.1904	
+				(0.02091)	
+c.any_contraception_nonpregnant@7.state_analysis				0.1578	
+				(0.02729)	
+c.any_contraception_nonpregnant@8.state_analysis				0.1137	
+				(0.04377)	
+c.any_contraception_nonpregnant@9.state_analysis				0.1645	
+				(0.03616)	
+c.any_contraception_nonpregnant@10.state_analysis				0.02298	
+				(0.005273)	
+modern_contraception_nonpregnant	modern_contraception_nonpregnant				0.08042
+					(0.007872)
+any_contraception_nonpregnant	any_contraception_nonpregnant				0.09227
+					(0.007933)
+					
+Observations		7,356	7,356	7,356	7,356
+Standard errors in parentheses					

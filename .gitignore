@@ -1,0 +1,14 @@
+# ---- restricted DHS microdata: NEVER commit ----
+dta/
+data/
+*.dta
+*.DTA
+*.MAP
+*.zip
+# ---- outreg2 Excel copies (the .txt versions are committed) ----
+*.xls
+*.xlsx
+# ---- Stata / OS ----
+*.log
+*.smcl
+.DS_Store

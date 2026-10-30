@@ -1,0 +1,74 @@
+		(1)	(2)
+VARIABLES	LABELS	1	2
+			
+c.num_birth_2yr@1bn.state		0.3278	
+		(0.01827)	
+c.num_birth_2yr@2.state		0.2109	
+		(0.04036)	
+c.num_birth_2yr@3.state		0.4497	
+		(0.02044)	
+c.num_birth_2yr@4.state		0.3313	
+		(0.02162)	
+c.num_birth_2yr@5.state		0.4372	
+		(0.01913)	
+c.num_birth_2yr@6.state		0.3100	
+		(0.02638)	
+c.num_birth_2yr@7.state		0.3138	
+		(0.01880)	
+c.num_birth_2yr@8.state		0.3547	
+		(0.04738)	
+c.num_birth_2yr@9.state		0.4446	
+		(0.03425)	
+c.num_birth_2yr@10.state		0.4560	
+		(0.02292)	
+c.num_birth_3yr@1bn.state		0.4993	
+		(0.02865)	
+c.num_birth_3yr@2.state		0.3859	
+		(0.04593)	
+c.num_birth_3yr@3.state		0.6800	
+		(0.02318)	
+c.num_birth_3yr@4.state		0.4866	
+		(0.02902)	
+c.num_birth_3yr@5.state		0.6054	
+		(0.02601)	
+c.num_birth_3yr@6.state		0.4728	
+		(0.04118)	
+c.num_birth_3yr@7.state		0.4434	
+		(0.02600)	
+c.num_birth_3yr@8.state		0.4884	
+		(0.06086)	
+c.num_birth_3yr@9.state		0.6704	
+		(0.05693)	
+c.num_birth_3yr@10.state		0.6607	
+		(0.02635)	
+c.current_preg_or_pastyear@1bn.state		0.2580	
+		(0.01552)	
+c.current_preg_or_pastyear@2.state		0.1970	
+		(0.02992)	
+c.current_preg_or_pastyear@3.state		0.3630	
+		(0.01832)	
+c.current_preg_or_pastyear@4.state		0.2367	
+		(0.01794)	
+c.current_preg_or_pastyear@5.state		0.3661	
+		(0.02344)	
+c.current_preg_or_pastyear@6.state		0.2945	
+		(0.02407)	
+c.current_preg_or_pastyear@7.state		0.2751	
+		(0.02908)	
+c.current_preg_or_pastyear@8.state		0.2789	
+		(0.04708)	
+c.current_preg_or_pastyear@9.state		0.3643	
+		(0.03501)	
+c.current_preg_or_pastyear@10.state		0.3880	
+		(0.01955)	
+num_birth_1yr	num_birth_1yr		0.2152
+			(0.008278)
+num_birth_2yr	num_birth_2yr		0.4075
+			(0.01044)
+num_birth_3yr	num_birth_3yr		0.6029
+			(0.01557)
+current_preg_or_pastyear	current_preg_or_pastyear		0.3370
+			(0.01020)
+			
+Observations		7,356	7,356
+Standard errors in parentheses			
