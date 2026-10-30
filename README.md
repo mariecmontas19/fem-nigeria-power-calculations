@@ -1,6 +1,6 @@
 # Power Calculations for a Cluster-Randomized Trial of a Family Planning Radio Campaign in Nigeria
 
-Power calculation code for the evaluation of Family Empowerment Media's (FEM) radio campaign, a cluster-randomized trial in rural communities in Nigeria. Contact: Marie C. Montás, Department of Global Health and Population, Harvard T.H. Chan School of Public Health (mariemontas@fas.harvard.edu).
+Sampled power calculation code for the evaluation of FEM's radio campaign, a cluster-randomized trial in rural communities in Nigeria. Contact: Marie C. Montás, Department of Global Health and Population, Harvard T.H. Chan School of Public Health (mariemontas@fas.harvard.edu).
 
 ## Overview
 
