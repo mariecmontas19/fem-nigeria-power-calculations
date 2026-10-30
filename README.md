@@ -41,7 +41,3 @@ StataNow 19.5 (MP) with `outreg2` 2.3.2.
 ## Data access
 
 The 2018 Nigeria DHS individual recode (NGIR7B) and the birth-history extract built from it are available from the DHS Program (dhsprogram.com) after registration, and cannot be redistributed. Place them in `dta/` as `NGIR7BFL.DTA` and `family_planning_data_nigeria.DTA`.
-
-## Citation
-
-Montás, M. C. (2026). *Power Calculations for a Cluster-Randomized Trial of a Family Planning Radio Campaign in Nigeria.* Code repository, Harvard T.H. Chan School of Public Health.
